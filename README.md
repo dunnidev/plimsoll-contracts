@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/dunnidev/plimsoll-contracts/actions/workflows/ci.yml"><img src="https://github.com/dunnidev/plimsoll-contracts/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
+  <a href="https://github.com/plimsoll-protocol/plimsoll-contracts/actions/workflows/ci.yml"><img src="https://github.com/plimsoll-protocol/plimsoll-contracts/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
   <img src="https://img.shields.io/badge/soroban--sdk-28.0.0-0f1d2b" alt="soroban-sdk 28" />
   <img src="https://img.shields.io/badge/network-testnet-c8341f" alt="testnet" />
   <img src="https://img.shields.io/badge/license-Apache--2.0-blue" alt="Apache-2.0" />
@@ -29,19 +29,19 @@ and refuse an asset that is under-backed or whose figures are out of date.
 | Repo | What it is |
 | --- | --- |
 | **plimsoll-contracts** (this repo) | Rust/Soroban contracts |
-| [plimsoll-app](https://github.com/dunnidev/plimsoll-app) | Web app and TypeScript SDK |
-| [plimsoll-indexer](https://github.com/dunnidev/plimsoll-indexer) | Go service: supply poster, event indexer, read API |
+| [plimsoll-app](https://github.com/plimsoll-protocol/plimsoll-app) | Web app and TypeScript SDK |
+| [plimsoll-indexer](https://github.com/plimsoll-protocol/plimsoll-indexer) | Go service: supply poster, event indexer, read API |
 
-**Live app:** https://dunnidev.github.io/plimsoll-app/
+**Live app:** https://plimsoll-protocol.github.io/plimsoll-app/
 
 ## Maintainers
 
 | Maintainer | GitHub | Contact |
 | --- | --- | --- |
-| dunnidev | [@dunnidev](https://github.com/dunnidev) | [GitHub Discussions](https://github.com/dunnidev/plimsoll-contracts/discussions) |
+| dunnidev | [@dunnidev](https://github.com/dunnidev) | [GitHub Discussions](https://github.com/plimsoll-protocol/plimsoll-contracts/discussions) |
 
 Questions, ideas and contributor coordination happen in
-[Discussions](https://github.com/dunnidev/plimsoll-contracts/discussions).
+[Discussions](https://github.com/plimsoll-protocol/plimsoll-contracts/discussions).
 
 ## Contracts
 
@@ -91,7 +91,7 @@ Requirements: Rust stable with the `wasm32v1-none` target, and
 [Stellar CLI](https://developers.stellar.org/docs/tools/cli) 28 or later.
 
 ```bash
-git clone https://github.com/dunnidev/plimsoll-contracts
+git clone https://github.com/plimsoll-protocol/plimsoll-contracts
 cd plimsoll-contracts
 
 cargo test                 # 53 tests across all crates
@@ -114,7 +114,7 @@ stellar contract invoke --network testnet --send=no \
 
 ## Contributing
 
-Issues labelled [`good first issue`](https://github.com/dunnidev/plimsoll-contracts/labels/good%20first%20issue)
+Issues labelled [`good first issue`](https://github.com/plimsoll-protocol/plimsoll-contracts/labels/good%20first%20issue)
 are scoped for a first pull request. Read [CONTRIBUTING.md](CONTRIBUTING.md) before you start,
 and comment on an issue to have it assigned.
 
@@ -122,8 +122,8 @@ Security reports: see [SECURITY.md](SECURITY.md). Do not open public issues for 
 
 ## Contributors
 
-<a href="https://github.com/dunnidev/plimsoll-contracts/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=dunnidev/plimsoll-contracts" alt="Contributors" />
+<a href="https://github.com/plimsoll-protocol/plimsoll-contracts/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=plimsoll-protocol/plimsoll-contracts" alt="Contributors" />
 </a>
 
 ## License

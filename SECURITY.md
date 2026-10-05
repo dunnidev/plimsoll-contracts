@@ -8,7 +8,7 @@ testnet only. Do not use them to protect real funds.
 ## Reporting a vulnerability
 
 Report privately through GitHub:
-[Security → Report a vulnerability](https://github.com/dunnidev/plimsoll-contracts/security/advisories/new).
+[Security → Report a vulnerability](https://github.com/plimsoll-protocol/plimsoll-contracts/security/advisories/new).
 
 Please include:
 
