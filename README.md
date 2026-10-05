@@ -6,6 +6,7 @@
   <a href="https://github.com/plimsoll-protocol/plimsoll-contracts/actions/workflows/ci.yml"><img src="https://github.com/plimsoll-protocol/plimsoll-contracts/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
   <img src="https://img.shields.io/badge/soroban--sdk-28.0.0-0f1d2b" alt="soroban-sdk 28" />
   <img src="https://img.shields.io/badge/network-testnet-c8341f" alt="testnet" />
+  <a href="https://plimsoll-protocol.gitbook.io/plimsoll-protocol-docs/"><img src="https://img.shields.io/badge/docs-gitbook-0f1d2b" alt="Docs" /></a>
   <img src="https://img.shields.io/badge/license-Apache--2.0-blue" alt="Apache-2.0" />
   <img src="https://img.shields.io/badge/audit-none-lightgrey" alt="unaudited" />
 </p>
@@ -32,7 +33,8 @@ and refuse an asset that is under-backed or whose figures are out of date.
 | [plimsoll-app](https://github.com/plimsoll-protocol/plimsoll-app) | Web app and TypeScript SDK |
 | [plimsoll-indexer](https://github.com/plimsoll-protocol/plimsoll-indexer) | Go service: supply poster, event indexer, read API |
 
-**Live app:** https://plimsoll-protocol.github.io/plimsoll-app/
+**Live app:** https://plimsoll-protocol.github.io/plimsoll-app/  
+**Docs:** https://plimsoll-protocol.gitbook.io/plimsoll-protocol-docs/
 
 ## Maintainers
 
