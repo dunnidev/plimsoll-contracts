@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Plimsoll — is it backed?">
+  <rect width="1200" height="300" fill="#0f1d2b"/>
+  <rect y="210" width="1200" height="90" fill="#163049"/>
+  <path d="M0 210 Q 75 198 150 210 T 300 210 T 450 210 T 600 210 T 750 210 T 900 210 T 1050 210 T 1200 210" fill="none" stroke="#2c5677" stroke-width="3"/>
+  <g transform="translate(150 150)">
+    <circle r="62" fill="none" stroke="#f5f3ee" stroke-width="12"/>
+    <rect x="-96" y="-7" width="192" height="14" rx="7" fill="#ef6a4f"/>
+  </g>
+  <text x="290" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="78" font-weight="700" fill="#f5f3ee">Plimsoll</text>
+  <text x="292" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" fill="#b4c0cc">Reserve coverage for Stellar-issued assets. Is it backed?</text>
+</svg>
