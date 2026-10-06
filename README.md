@@ -33,7 +33,7 @@ and refuse an asset that is under-backed or whose figures are out of date.
 | [plimsoll-app](https://github.com/plimsoll-protocol/plimsoll-app) | Web app and TypeScript SDK |
 | [plimsoll-indexer](https://github.com/plimsoll-protocol/plimsoll-indexer) | Go service: supply poster, event indexer, read API |
 
-**Live app:** https://plimsoll-protocol.github.io/plimsoll-app/  
+**Live app:** https://plimsoll-app-gths-amber.vercel.app/ (mirror: https://plimsoll-protocol.github.io/plimsoll-app/)  
 **Docs:** https://plimsoll-protocol.gitbook.io/plimsoll-protocol-docs/
 
 ## Maintainers
